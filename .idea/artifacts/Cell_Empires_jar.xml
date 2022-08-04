@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cell Empires:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cell_Empires_jar</output-path>
+    <root id="archive" name="Cell Empires.jar">
+      <element id="module-output" name="Cell Empires" />
+    </root>
+  </artifact>
+</component>
